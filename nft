@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Shiba Inu World Cup">
+    <meta name="keywords" content="Shiba, nft, crypto, staking">
+
+    <!-- Title -->
+    <title>Shiba Inu World Cup</title>
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/images/favicon.jpeg">
+    <!-- Google Fonts -->
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;500;600;700&display=swap">
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap">
+
+    <!-- Font Awesome Css -->
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <!-- Bootstrap 4 Css -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- Owl Carousel Css -->
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <!-- Animate Css -->
+    <link rel="stylesheet" href="css/animate.min.css">
+    <!-- Main Style Css -->
+    <link rel="stylesheet" href="css/main.css">
+
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.min.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-120297928-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-120297928-1');
+    </script>
+
+</head>
+<body class="main-home">
+
+<!-- ========== Start Loading ========== -->
+
+<div class="loading">
+    <div class="loading-content">
+        <!--                <div class="inner-item"></div>-->
+        <!--                <div class="inner-item"></div>-->
+        <!--                <div class="inner-item"></div>-->
+        <!--                <div class="inner-item"></div>-->
+        <!--                <div class="inner-item"></div>-->
+        <img src="images/gif10.gif" style="margin: auto">
+    </div>
+</div>
+
+<!-- ========== End Loading ========== -->
+
+<!-- ========== Start Navbar ========== -->
+
+<header class="header">
+    <div class="container">
+        <div class="header-inner">
+            <div class="logo">
+                <a href="/"><img class="img-fluid" src="/images/shiba-logo.png" alt=""></a>
+            </div>
+            <nav class="main-nav">
+                <ul class="menu">
+                    <li class="menu-item">
+                        <a href="/">Home</a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="/#roadmap">ROADMAP</a>
+                    </li>
+                    <li class="menu-item"><a target="_blank"
+                                             href="https://docs.shibainuwc.com/shiba-world-cup-token/tokenomics">TOKENOMICS</a>
+                    </li>
+                    <li class="menu-item menu-item-has-children">
+                        <a href="#">SWC TOKEN</a>
+                        <ul class="sub-menu">
+                            <li class="menu-item"><a
+                                    target="_blank"
+                                    href="https://github.com/interfinetwork/project-kyc-verification/blob/main/ShibaWorldCup_KYCCertificate_InterFi.pdf">KYC
+                                CERTIFICATE</a></li>
+                            <li class="menu-item"><a
+                                    href="https://github.com/interfinetwork/smart-contract-audits/blob/audit-updates/ShibaWorldCup_0x649B833715BfCEDBEF67611010EBB228B50C6952.pdf"
+                                    target="_blank">AUDIT CERTIFICATE</a></li>
+                            <li class="menu-item"><a href="https://t.me/TrynosTokenTerminal/310">SAFU CERTIFICATE</a></li>
+                        </ul>
+                    </li>
+                    <li class="menu-item menu-item-has-children">
+                        <a href="#">FEATURES</a>
+                        <ul class="sub-menu">
+                            <li class="menu-item"><a href="/nft">NFT MARKETPLACE</a></li>
+                            <li class="menu-item"><a href="/staking">NFT STAKING</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+            <a class="header-btn" href="#">CONNECT WALLET</a>
+            <div class="mobile-button"><span></span></div>
+        </div>
+    </div>
+</header>
+
+<!-- ========== End Navbar ========== -->
+
+<!-- ========== Start Home ========== -->
+
+<section class="breadcrumb-area">
+    <div class="container">
+        <h3 class="breadcrumb-title">Marketplace</h3>
+    </div>
+</section>
+
+<section class="trending-auctions">
+    <div class="container">
+        <div class="row">
+            <div class="col-6">
+                <h3 class="main-title">Trending</h3>
+            </div>
+            <div class="col-6">
+                <div class="nft-more discover-more text-right">
+                    <a href="/nft">Discover more <i class="fa fa-angle-right"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-md-6 item">
+                <div class="nft-box">
+                    <div class="nft-box-collection">
+                        <div class="nft-box-user d-flex align-items-center">
+                            <div class="nft-box-user-thumb">
+                                <img class="img-fluid" src="images/big-logo.png" alt="">
+                            </div>
+                            <div class="nft-box-user-name">
+                                <h4>@SWC</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nft-box-thumb">
+                        <a href="/nft"><img class="img-fluid" src="images/nft-09.png" alt></a>
+                        <div class="nft-box-popularity">
+                            <a href="/nft"><i class="fa fa-heart-o"></i></a>
+                        </div>
+                    </div>
+                    <div class="nft-box-content">
+                        <div class="nft-box-title-wrap d-flex align-items-center justify-content-between">
+                            <h3 class="nft-box-title">
+                                <a href="/nft">SWC #09</a>
+                            </h3>
+                            <div class="nft-box-trending-icon">
+                                <img src="images/bnb-logo.png" style="width: 30px; height: 30px">
+                            </div>
+                        </div>
+                        <div class="nft-box-info d-flex align-items-center justify-content-between">
+                            <div class="nft-box-revenue">
+                                <p>50 BNB</p>
+                            </div>
+                            <div class="nft-box-price">
+                                <p>$15600</p>
+                            </div>
+                        </div>
+                        <div class="nft-box-btn-content">
+                            <a href="/nft" class="nft-box-btn">Place a bid <i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 item">
+                <div class="nft-box">
+                    <div class="nft-box-collection">
+                        <div class="nft-box-user d-flex align-items-center">
+                            <div class="nft-box-user-thumb">
+                                <img class="img-fluid" src="images/big-logo.png" alt="">
+                            </div>
+                            <div class="nft-box-user-name">
+                                <h4>@SWC</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nft-box-thumb">
+                        <a href="/nft"><img class="img-fluid" src="images/nft-10.png" alt></a>
+                        <div class="nft-box-popularity">
+                            <a href="/nft"><i class="fa fa-heart-o"></i></a>
+                        </div>
+                    </div>
+                    <div class="nft-box-content">
+                        <div class="nft-box-title-wrap d-flex align-items-center justify-content-between">
+                            <h3 class="nft-box-title">
+                                <a href="/nft">SWC #10</a>
+                            </h3>
+                            <div class="nft-box-trending-icon">
+                                <img src="images/bnb-logo.png" style="width: 30px; height: 30px">
+                            </div>
+                        </div>
+                        <div class="nft-box-info d-flex align-items-center justify-content-between">
+                            <div class="nft-box-revenue">
+                                <p>50 BNB</p>
+                            </div>
+                            <div class="nft-box-price">
+                                <p>$15600</p>
+                            </div>
+                        </div>
+                        <div class="nft-box-btn-content">
+                            <a href="/nft" class="nft-box-btn">Place a bid <i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 item">
+                <div class="nft-box">
+                    <div class="nft-box-collection">
+                        <div class="nft-box-user d-flex align-items-center">
+                            <div class="nft-box-user-thumb">
+                                <img class="img-fluid" src="images/big-logo.png" alt="">
+                            </div>
+                            <div class="nft-box-user-name">
+                                <h4>@SWC</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nft-box-thumb">
+                        <a href="/nft"><img class="img-fluid" src="images/nft-11.png" alt></a>
+                        <div class="nft-box-popularity">
+                            <a href="/nft"><i class="fa fa-heart-o"></i></a>
+                        </div>
+                    </div>
+                    <div class="nft-box-content">
+                        <div class="nft-box-title-wrap d-flex align-items-center justify-content-between">
+                            <h3 class="nft-box-title">
+                                <a href="/nft">SWC #11</a>
+                            </h3>
+                            <div class="nft-box-trending-icon">
+                                <img src="images/bnb-logo.png" style="width: 30px; height: 30px">
+                            </div>
+                        </div>
+                        <div class="nft-box-info d-flex align-items-center justify-content-between">
+                            <div class="nft-box-revenue">
+                                <p>50 BNB</p>
+                            </div>
+                            <div class="nft-box-price">
+                                <p>$15600</p>
+                            </div>
+                        </div>
+                        <div class="nft-box-btn-content">
+                            <a href="/nft" class="nft-box-btn">Place a bid <i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="discover-nfts">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-12">
+                <h3 class="main-title">Discover NTFs</h3>
+            </div>
+            <div class="col-lg-9 col-12">
+                <div class="nfts-filter-content text-lg-right">
+                    <div class="nfts-filter">
+                        <div class="filter-wrap d-flex align-items-center justify-content-lg-end">
+                            <div class="filter">
+                                <button type="button" data-filter="*" class="active">All</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row grid">
+            <div class="col-lg-4 col-md-6 item">
+                <div class="nft-box">
+                    <div class="nft-box-collection">
+                        <div class="nft-box-user d-flex align-items-center">
+                            <div class="nft-box-user-thumb">
+                                <img class="img-fluid" src="images/big-logo.png" alt="">
+                            </div>
+                            <div class="nft-box-user-name">
+                                <h4>@SWC</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nft-box-thumb">
+                        <a href="/nft"><img class="img-fluid" src="images/nft-01.png" alt></a>
+                        <div class="nft-box-popularity">
+                            <a href="/nft"><i class="fa fa-heart-o"></i></a>
+                        </div>
+                    </div>
+                    <div class="nft-box-content">
+                        <div class="nft-box-title-wrap d-flex align-items-center justify-content-between">
+                            <h3 class="nft-box-title">
+                                <a href="/nft">SWC #01</a>
+                            </h3>
+                            <div class="nft-box-trending-icon">
+                                <img src="images/bnb-logo.png" style="width: 30px; height: 30px">
+                            </div>
+                        </div>
+                        <div class="nft-box-info d-flex align-items-center justify-content-between">
+                            <div class="nft-box-revenue">
+                                <p>50 BNB</p>
+                            </div>
+                            <div class="nft-box-price">
+                                <p>$15600</p>
+                            </div>
+                        </div>
+                        <div class="nft-box-btn-content">
+                            <a href="/nft" class="nft-box-btn">Place a bid <i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 item">
+                <div class="nft-box">
+                    <div class="nft-box-collection">
+                        <div class="nft-box-user d-flex align-items-center">
+                            <div class="nft-box-user-thumb">
+                                <img class="img-fluid" src="images/big-logo.png" alt="">
+                            </div>
+                            <div class="nft-box-user-name">
+                                <h4>@SWC</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nft-box-thumb">
+                        <a href="/nft"><img class="img-fluid" src="images/nft-02.png" alt></a>
+                        <div class="nft-box-popularity">
+                            <a href="/nft"><i class="fa fa-heart-o"></i></a>
+                        </div>
+                    </div>
+                    <div class="nft-box-content">
+                        <div class="nft-box-title-wrap d-flex align-items-center justify-content-between">
+                            <h3 class="nft-box-title">
+                                <a href="/nft">SWC #02</a>
+                            </h3>
+                            <div class="nft-box-trending-icon">
+                                <img src="images/bnb-logo.png" style="width: 30px; height: 30px">
+                            </div>
+                        </div>
+                        <div class="nft-box-info d-flex align-items-center justify-content-between">
+                            <div class="nft-box-revenue">
+                                <p>50 BNB</p>
+                            </div>
+                            <div class="nft-box-price">
+                                <p>$15600</p>
+                            </div>
+                        </div>
+                        <div class="nft-box-btn-content">
+                            <a href="/nft" class="nft-box-btn">Place a bid <i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 item">
+                <div class="nft-box">
+                    <div class="nft-box-collection">
+                        <div class="nft-box-user d-flex align-items-center">
+                            <div class="nft-box-user-thumb">
+                                <img class="img-fluid" src="images/big-logo.png" alt="">
+                            </div>
+                            <div class="nft-box-user-name">
+                                <h4>@SWC</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nft-box-thumb">
+                        <a href="/nft"><img class="img-fluid" src="images/nft-03.png" alt></a>
+                        <div class="nft-box-popularity">
+                            <a href="/nft"><i class="fa fa-heart-o"></i></a>
+                        </div>
+                    </div>
+                    <div class="nft-box-content">
+                        <div class="nft-box-title-wrap d-flex align-items-center justify-content-between">
+                            <h3 class="nft-box-title">
+                                <a href="/nft">SWC #03</a>
+                            </h3>
+                            <div class="nft-box-trending-icon">
+                                <img src="images/bnb-logo.png" style="width: 30px; height: 30px">
+                            </div>
+                        </div>
+                        <div class="nft-box-info d-flex align-items-center justify-content-between">
+                            <div class="nft-box-revenue">
+                                <p>50 BNB</p>
+                            </div>
+                            <div class="nft-box-price">
+                                <p>$15600</p>
+                            </div>
+                        </div>
+                        <div class="nft-box-btn-content">
+                            <a href="/nft" class="nft-box-btn">Place a bid <i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 item">
+                <div class="nft-box">
+                    <div class="nft-box-collection">
+                        <div class="nft-box-user d-flex align-items-center">
+                            <div class="nft-box-user-thumb">
+                                <img class="img-fluid" src="images/big-logo.png" alt="">
+                            </div>
+                            <div class="nft-box-user-name">
+                                <h4>@SWC</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nft-box-thumb">
+                        <a href="/nft"><img class="img-fluid" src="images/nft-04.png" alt></a>
+                        <div class="nft-box-popularity">
+                            <a href="/nft"><i class="fa fa-heart-o"></i></a>
+                        </div>
+                    </div>
+                    <div class="nft-box-content">
+                        <div class="nft-box-title-wrap d-flex align-items-center justify-content-between">
+                            <h3 class="nft-box-title">
+                                <a href="/nft">SWC #04</a>
+                            </h3>
+                            <div class="nft-box-trending-icon">
+                                <img src="images/bnb-logo.png" style="width: 30px; height: 30px">
+                            </div>
+                        </div>
+                        <div class="nft-box-info d-flex align-items-center justify-content-between">
+                            <div class="nft-box-revenue">
+                                <p>50 BNB</p>
+                            </div>
+                            <div class="nft-box-price">
+                                <p>$15600</p>
+                            </div>
+                        </div>
+                        <div class="nft-box-btn-content">
+                            <a href="/nft" class="nft-box-btn">Place a bid <i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 item">
+                <div class="nft-box">
+                    <div class="nft-box-collection">
+                        <div class="nft-box-user d-flex align-items-center">
+                            <div class="nft-box-user-thumb">
+                                <img class="img-fluid" src="images/big-logo.png" alt="">
+                            </div>
+                            <div class="nft-box-user-name">
+                                <h4>@SWC</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nft-box-thumb">
+                        <a href="/nft"><img class="img-fluid" src="images/nft-05.png" alt></a>
+                        <div class="nft-box-popularity">
+                            <a href="/nft"><i class="fa fa-heart-o"></i></a>
+                        </div>
+                    </div>
+                    <div class="nft-box-content">
+                        <div class="nft-box-title-wrap d-flex align-items-center justify-content-between">
+                            <h3 class="nft-box-title">
+                                <a href="/nft">SWC #05</a>
+                            </h3>
+                            <div class="nft-box-trending-icon">
+                                <img src="images/bnb-logo.png" style="width: 30px; height: 30px">
+                            </div>
+                        </div>
+                        <div class="nft-box-info d-flex align-items-center justify-content-between">
+                            <div class="nft-box-revenue">
+                                <p>50 BNB</p>
+                            </div>
+                            <div class="nft-box-price">
+                                <p>$15600</p>
+                            </div>
+                        </div>
+                        <div class="nft-box-btn-content">
+                            <a href="/nft" class="nft-box-btn">Place a bid <i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 item">
+                <div class="nft-box">
+                    <div class="nft-box-collection">
+                        <div class="nft-box-user d-flex align-items-center">
+                            <div class="nft-box-user-thumb">
+                                <img class="img-fluid" src="images/big-logo.png" alt="">
+                            </div>
+                            <div class="nft-box-user-name">
+                                <h4>@SWC</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nft-box-thumb">
+                        <a href="/nft"><img class="img-fluid" src="images/nft-06.png" alt></a>
+                        <div class="nft-box-popularity">
+                            <a href="/nft"><i class="fa fa-heart-o"></i></a>
+                        </div>
+                    </div>
+                    <div class="nft-box-content">
+                        <div class="nft-box-title-wrap d-flex align-items-center justify-content-between">
+                            <h3 class="nft-box-title">
+                                <a href="/nft">SWC #06</a>
+                            </h3>
+                            <div class="nft-box-trending-icon">
+                                <img src="images/bnb-logo.png" style="width: 30px; height: 30px">
+                            </div>
+                        </div>
+                        <div class="nft-box-info d-flex align-items-center justify-content-between">
+                            <div class="nft-box-revenue">
+                                <p>50 BNB</p>
+                            </div>
+                            <div class="nft-box-price">
+                                <p>$15600</p>
+                            </div>
+                        </div>
+                        <div class="nft-box-btn-content">
+                            <a href="/nft" class="nft-box-btn">Place a bid <i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 item">
+                <div class="nft-box">
+                    <div class="nft-box-collection">
+                        <div class="nft-box-user d-flex align-items-center">
+                            <div class="nft-box-user-thumb">
+                                <img class="img-fluid" src="images/big-logo.png" alt="">
+                            </div>
+                            <div class="nft-box-user-name">
+                                <h4>@SWC</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nft-box-thumb">
+                        <a href="/nft"><img class="img-fluid" src="images/nft-07.png" alt></a>
+                        <div class="nft-box-popularity">
+                            <a href="/nft"><i class="fa fa-heart-o"></i></a>
+                        </div>
+                    </div>
+                    <div class="nft-box-content">
+                        <div class="nft-box-title-wrap d-flex align-items-center justify-content-between">
+                            <h3 class="nft-box-title">
+                                <a href="/nft">SWC #07</a>
+                            </h3>
+                            <div class="nft-box-trending-icon">
+                                <img src="images/bnb-logo.png" style="width: 30px; height: 30px">
+                            </div>
+                        </div>
+                        <div class="nft-box-info d-flex align-items-center justify-content-between">
+                            <div class="nft-box-revenue">
+                                <p>50 BNB</p>
+                            </div>
+                            <div class="nft-box-price">
+                                <p>$15600</p>
+                            </div>
+                        </div>
+                        <div class="nft-box-btn-content">
+                            <a href="/nft" class="nft-box-btn">Place a bid <i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 item">
+                <div class="nft-box">
+                    <div class="nft-box-collection">
+                        <div class="nft-box-user d-flex align-items-center">
+                            <div class="nft-box-user-thumb">
+                                <img class="img-fluid" src="images/big-logo.png" alt="">
+                            </div>
+                            <div class="nft-box-user-name">
+                                <h4>@SWC</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nft-box-thumb">
+                        <a href="/nft"><img class="img-fluid" src="images/nft-08.png" alt></a>
+                        <div class="nft-box-popularity">
+                            <a href="/nft"><i class="fa fa-heart-o"></i></a>
+                        </div>
+                    </div>
+                    <div class="nft-box-content">
+                        <div class="nft-box-title-wrap d-flex align-items-center justify-content-between">
+                            <h3 class="nft-box-title">
+                                <a href="/nft">SWC #08</a>
+                            </h3>
+                            <div class="nft-box-trending-icon">
+                                <img src="images/bnb-logo.png" style="width: 30px; height: 30px">
+                            </div>
+                        </div>
+                        <div class="nft-box-info d-flex align-items-center justify-content-between">
+                            <div class="nft-box-revenue">
+                                <p>50 BNB</p>
+                            </div>
+                            <div class="nft-box-price">
+                                <p>$15600</p>
+                            </div>
+                        </div>
+                        <div class="nft-box-btn-content">
+                            <a href="/nft" class="nft-box-btn">Place a bid <i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 item">
+                <div class="nft-box">
+                    <div class="nft-box-collection">
+                        <div class="nft-box-user d-flex align-items-center">
+                            <div class="nft-box-user-thumb">
+                                <img class="img-fluid" src="images/big-logo.png" alt="">
+                            </div>
+                            <div class="nft-box-user-name">
+                                <h4>@SWC</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nft-box-thumb">
+                        <a href="/nft"><img class="img-fluid" src="images/nft-09.png" alt></a>
+                        <div class="nft-box-popularity">
+                            <a href="/nft"><i class="fa fa-heart-o"></i></a>
+                        </div>
+                    </div>
+                    <div class="nft-box-content">
+                        <div class="nft-box-title-wrap d-flex align-items-center justify-content-between">
+                            <h3 class="nft-box-title">
+                                <a href="/nft">SWC #09</a>
+                            </h3>
+                            <div class="nft-box-trending-icon">
+                                <img src="images/bnb-logo.png" style="width: 30px; height: 30px">
+                            </div>
+                        </div>
+                        <div class="nft-box-info d-flex align-items-center justify-content-between">
+                            <div class="nft-box-revenue">
+                                <p>50 BNB</p>
+                            </div>
+                            <div class="nft-box-price">
+                                <p>$15600</p>
+                            </div>
+                        </div>
+                        <div class="nft-box-btn-content">
+                            <a href="/nft" class="nft-box-btn">Place a bid <i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 item">
+                <div class="nft-box">
+                    <div class="nft-box-collection">
+                        <div class="nft-box-user d-flex align-items-center">
+                            <div class="nft-box-user-thumb">
+                                <img class="img-fluid" src="images/big-logo.png" alt="">
+                            </div>
+                            <div class="nft-box-user-name">
+                                <h4>@SWC</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nft-box-thumb">
+                        <a href="/nft"><img class="img-fluid" src="images/nft-10.png" alt></a>
+                        <div class="nft-box-popularity">
+                            <a href="/nft"><i class="fa fa-heart-o"></i></a>
+                        </div>
+                    </div>
+                    <div class="nft-box-content">
+                        <div class="nft-box-title-wrap d-flex align-items-center justify-content-between">
+                            <h3 class="nft-box-title">
+                                <a href="/nft">SWC #10</a>
+                            </h3>
+                            <div class="nft-box-trending-icon">
+                                <img src="images/bnb-logo.png" style="width: 30px; height: 30px">
+                            </div>
+                        </div>
+                        <div class="nft-box-info d-flex align-items-center justify-content-between">
+                            <div class="nft-box-revenue">
+                                <p>50 BNB</p>
+                            </div>
+                            <div class="nft-box-price">
+                                <p>$15600</p>
+                            </div>
+                        </div>
+                        <div class="nft-box-btn-content">
+                            <a href="/nft" class="nft-box-btn">Place a bid <i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 item">
+                <div class="nft-box">
+                    <div class="nft-box-collection">
+                        <div class="nft-box-user d-flex align-items-center">
+                            <div class="nft-box-user-thumb">
+                                <img class="img-fluid" src="images/big-logo.png" alt="">
+                            </div>
+                            <div class="nft-box-user-name">
+                                <h4>@SWC</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nft-box-thumb">
+                        <a href="/nft"><img class="img-fluid" src="images/nft-11.png" alt></a>
+                        <div class="nft-box-popularity">
+                            <a href="/nft"><i class="fa fa-heart-o"></i></a>
+                        </div>
+                    </div>
+                    <div class="nft-box-content">
+                        <div class="nft-box-title-wrap d-flex align-items-center justify-content-between">
+                            <h3 class="nft-box-title">
+                                <a href="/nft">SWC #11</a>
+                            </h3>
+                            <div class="nft-box-trending-icon">
+                                <img src="images/bnb-logo.png" style="width: 30px; height: 30px">
+                            </div>
+                        </div>
+                        <div class="nft-box-info d-flex align-items-center justify-content-between">
+                            <div class="nft-box-revenue">
+                                <p>50 BNB</p>
+                            </div>
+                            <div class="nft-box-price">
+                                <p>$15600</p>
+                            </div>
+                        </div>
+                        <div class="nft-box-btn-content">
+                            <a href="/nft" class="nft-box-btn">Place a bid <i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 item">
+                <div class="nft-box">
+                    <div class="nft-box-collection">
+                        <div class="nft-box-user d-flex align-items-center">
+                            <div class="nft-box-user-thumb">
+                                <img class="img-fluid" src="images/big-logo.png" alt="">
+                            </div>
+                            <div class="nft-box-user-name">
+                                <h4>@SWC</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nft-box-thumb">
+                        <a href="/nft"><img class="img-fluid" src="images/nft-12.png" alt></a>
+                        <div class="nft-box-popularity">
+                            <a href="/nft"><i class="fa fa-heart-o"></i></a>
+                        </div>
+                    </div>
+                    <div class="nft-box-content">
+                        <div class="nft-box-title-wrap d-flex align-items-center justify-content-between">
+                            <h3 class="nft-box-title">
+                                <a href="/nft">SWC #12</a>
+                            </h3>
+                            <div class="nft-box-trending-icon">
+                                <img src="images/bnb-logo.png" style="width: 30px; height: 30px">
+                            </div>
+                        </div>
+                        <div class="nft-box-info d-flex align-items-center justify-content-between">
+                            <div class="nft-box-revenue">
+                                <p>50 BNB</p>
+                            </div>
+                            <div class="nft-box-price">
+                                <p>$15600</p>
+                            </div>
+                        </div>
+                        <div class="nft-box-btn-content">
+                            <a href="/nft" class="nft-box-btn">Place a bid <i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ========== End Discover NFTs ========== -->
+
+<!-- ========== Start Teams ========== -->
+
+<section class="teams">
+    <div class="container">
+        <div class="row">
+            <div class="col-6">
+                <h3 class="main-title">Popular Collections</h3>
+            </div>
+            <div class="col-6">
+                <div class="artists-more discover-more text-right">
+                    <a href="/nft">Discover more <i class="fa fa-angle-right"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-md-6 item">
+                <div class="team-item">
+                    <div class="artwork-image">
+                        <img class="img-fluid" src="images/banner-final.png" alt>
+                    </div>
+                    <div class="team-item-artist-info">
+                        <a class="team-item-artist-thumb" href="#">
+                            <img class="img-fluid" src="images/shiba-logo.png" alt>
+                        </a>
+                        <h4 class="team-item-artist-name"><a href="#">Shiba Inu World Cup</a></h4>
+                        <p class="team-item-artist-username"><a href="#">@SWC</a></p>
+                    </div>
+                    <ul class="team-item-info list-unstyled d-flex justify-content-between">
+                        <li>
+                            <span>570</span>
+                            Followers
+                        </li>
+                        <li>
+                            <span>400</span>
+                            Following
+                        </li>
+                        <li>
+                            <span>245</span>
+                            Artworks
+                        </li>
+                    </ul>
+                    <div class="team-item-btn-content">
+                        <a href="#" class="main-btn">Follow</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ========== End Teams ========== -->
+
+<footer class="footer">
+    <div class="footer-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-sm-6 col-12 footer-menu">
+                    <div class="footer-logo">
+                        <a class="my-logo" href="/"><img class="img-fluid"
+                                                         src="images/shiba-logo.png" alt=""></a>
+                    </div>
+                    <p>Inspired by the friendly relationship between puppies and soccer</p>
+                </div>
+                <div class="col-lg-2 col-sm-6 col-12 footer-menu">
+                    <div class="footer-item">
+                        <h4>Site map</h4>
+                        <ul class="list-unstyled">
+                            <li><a href="/">Home</a></li>
+                            <li><a href="/#roadmap">Roadmap</a></li>
+                            <li><a target="_blank" href="https://docs.shibainuwc.com/shiba-world-cup-token/tokenomics">Tokenomics</a>
+                            </li>
+                            <li><a href="/#features">Features</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-sm-6 col-12 footer-menu">
+                    <div class="footer-item">
+                        <h4>SWC token</h4>
+                        <ul class="list-unstyled">
+                            <li>
+                                <a href="https://github.com/interfinetwork/project-kyc-verification/blob/main/ShibaWorldCup_KYCCertificate_InterFi.pdf"
+                                   target="_blank">KYC
+                                    Certificate</a></li>
+                            <li>
+                                <a href="https://github.com/interfinetwork/smart-contract-audits/blob/audit-updates/ShibaWorldCup_0x649B833715BfCEDBEF67611010EBB228B50C6952.pdf"
+                                   target="_blank">Audit Certificate</a></li>
+                            <li><a href="https://t.me/TrynosTokenTerminal/310">SAFU Certificate</a></li>
+                            <li><a target="_blank" href="https://docs.shibainuwc.com/#">Documents</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 col-12 footer-menu">
+                    <div class="footer-item">
+                        <h4>Subscribe Newsletter</h4>
+                        <div class="footer-newsletter">
+                            <input type="text" name="text" placeholder="Email address" required="">
+                            <a class="submit" href="#"><img src="images/arrow.png" alt=""></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom text-center">
+        <div class="container">
+            <div class="copyright d-flex align-items-center justify-content-md-between flex-sm-wrap justify-content-sm-center">
+                <p>&copy; 2022. All rights reserved</p>
+                <ul class="list-unstyled social-media d-flex align-items-center">
+                    <li><a target="_blank" href="https://www.facebook.com/shibaworldcup/"><i class="fa fa-facebook"></i></a>
+                    </li>
+                    <li><a target="_blank" href="https://twitter.com/Shibaworldcup"><i class="fa fa-twitter"></i></a>
+                    </li>
+                    <li><a target="_blank" href="https://t.me/shibawcglobalchat"><i class="fa fa-telegram"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- ========== End Footer ========== -->
+
+<!-- ========== Start Scroll To Top  ========== -->
+
+<a href="#" class="scroll-top">
+    <span><i class="fa fa-arrow-up"></i></span>
+</a>
+
+<!-- ========== End Scroll To Top  ========== -->
+
+<!-- ========== Js ========== -->
+
+<!-- jQuery -->
+<script src="js/jquery-3.2.1.min.js"></script>
+<!-- Popper Js  -->
+<script src="js/popper.min.js"></script>
+<!-- Bootstrap 4 Js -->
+<script src="js/bootstrap.min.js"></script>
+<!-- Owl Carousel Js -->
+<script src="js/owl.carousel.min.js"></script>
+<!-- Isotope Js -->
+<script src="js/isotope.min.js"></script>
+<!--  WOW Js  -->
+<script src="js/wow.min.js"></script>
+<!-- Custom Js -->
+<script src="js/custom.js"></script>
+</body>
+</html>
